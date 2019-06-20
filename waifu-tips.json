@@ -105,26 +105,26 @@
 		"selector": "#bitcoin",
 		"text": ["这是我的比特币账号！"]
 	}, {
-		"selector": "#needsharebutton-postbottom .btn",
-		"text": ["好东西要让更多人知道才行哦。", "觉得文章有帮助的话，可以分享给更多需要的朋友呢。"]
+		"selector": ".social-share-icon icon-qq",
+		"text": ["好东西要让更多人知道才行哦，快分享给QQ好友吧！。", "觉得文章有帮助的话，可以分享给更多需要的朋友呢。"]
 	}, {
-		"selector": ".need-share-button_weibo",
+		"selector": ".social-share-icon icon-weibo",
 		"text": ["微博？来分享一波喵！"]
 	}, {
-		"selector": ".need-share-button_wechat",
+		"selector": ".social-share-icon icon-wechat",
 		"text": ["分享到微信吧！"]
 	}, {
-		"selector": ".need-share-button_douban",
+		"selector": ".social-share-icon icon-douban",
 		"text": ["分享到豆瓣好像也不错！"]
 	}, {
-		"selector": ".need-share-button_qqzone",
+		"selector": ".social-share-icon icon-qzone",
 		"text": ["QQ空间，一键转发，耶～"]
 	}, {
-		"selector": ".need-share-button_twitter",
-		"text": ["Twitter？好像是不存在的东西？"]
+		"selector": ".social-share-icon icon-linkedin",
+		"text": ["LinkedIn？好像是不存在的东西？"]
 	}, {
-		"selector": ".need-share-button_facebook",
-		"text": ["emmm…FB好像也是不存在的东西？"]
+		"selector": ".social-share-icon icon-google",
+		"text": ["emmm…Google好像也是不存在的东西？"]
 	}, {
 		"selector": ".post-nav-next",
 		"text": ["来看看下一篇文章吧。", "点它可以看下一篇文章哦！", "要翻到下一篇文章吗？"]
@@ -160,10 +160,25 @@
 		"text": ["要预览一下你的发言吗？", "快看看你的评论有多少负熵！"]
 	}, {
 		"selector": ".vsubmit",
-		"text": ["评论没有审核，要对自己的发言负责哦～", "要提交了吗，请耐心等待回复哦～"]
+		"text": ["要对自己的发言负责哦～", "如果有疑问，请尽快留言哦～"]
 	}, {
 		"selector": ".vcontent",
 		"text": ["哇，快看看这个精彩评论！"]
+	},{
+		"selector": ".blog-weather",
+		"text": ["注意你所在地区的天气哦~下雨记得带伞~！"]
+	},{
+		"selector": ".blog-about",
+		"text": ["你是想了解一下主人的信息嘛！"]
+	},{
+		"selector": ".blog-read",
+		"text": ["一定要多读书呢~！"]
+	},{
+		"selector": ".blog-photo",
+		"text": ["记录美好生活，相册肯定是必不可少滴~！"]
+	},{
+		"selector": ".blog-photo",
+		"text": ["觉得博客不错？快来留言和主人交流吧！"]
 	}],
 	"click": [{
 		"selector": "#waifu #live2d",
