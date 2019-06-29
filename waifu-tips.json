@@ -31,15 +31,15 @@
 		"text": ["你想知道我家主人是谁吗？", "这里有一些关于我家主人的秘密哦，要不要看看呢？", "发现主人出没地点！"]
 	}, {
 		"selector": ".menu-item-tags",
-		"text": ["点击就可以看文章的标签啦！", "点击来查看所有标签哦。", "快看看这里都有什么呢！"]
+		"text": ["点击就可以看文章的标签啦！", "点击来查看所有标签哦。"]
 	}, {
 		"selector": ".menu-item-categories",
-		"text": ["文章都分类好啦～", "点击来查看文章分类哦。", "快看看这里都有什么呢！"]
+		"text": ["文章都分类好啦～", "点击来查看文章分类哦。"]
 	}, {
 		"selector": ".menu-item-archives",
-		"text": ["翻页比较麻烦吗，那就来看看文章归档吧。", "文章目录都整理在这里啦！", "快看看这里都有什么呢？"]
+		"text": ["翻页比较麻烦吗，那就来看看文章归档吧。", "文章目录都整理在这里啦！"]
 	}, {
-		"selector": ".menu-item-friends",
+		"selector": ".menu-item-links",
 		"text": ["这是我的朋友们哦ヾ(◍°∇°◍)ﾉﾞ", "要去大佬们的家看看吗？", "要去拜访一下我的朋友们吗？"]
 	}, {
 		"selector": ".menu-item-search",
@@ -67,7 +67,7 @@
 		"text": ["点击图片可以放大呢！"]
 	}, {
 		"selector": ".highlight-wrap",
-		"text": ["代码可以直接点击复制哟。", "GitHub！我是新手！"]
+		"text": ["代码可以直接点击复制哟"]
 	}, {
 		"selector": ".container a[href^='http'], .nav-link .nav-text",
 		"text": ["要去看看 <span style=\"color:#0099cc;\">{text}</span> 么？", "去 <span style=\"color:#0099cc;\">{text}</span> 逛逛吧。", "到 <span style=\"color:#0099cc;\">{text}</span> 看看吧。"]
@@ -175,7 +175,7 @@
 		"text": ["一定要多读书呢~！"]
 	},{
 		"selector": ".blog-photo",
-		"text": ["记录美好生活，相册肯定是必不可少滴~！"]
+		"text": ["相册记录美好生活！"]
 	},{
 		"selector": ".blog-photo",
 		"text": ["觉得博客不错？快来留言和主人交流吧！"]
